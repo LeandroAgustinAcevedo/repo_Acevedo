@@ -1,0 +1,19 @@
+    1  ls
+    2  -l
+    3  ls -l
+    4  ls -la
+    5  man ls
+    6  man man
+    7  pwd
+    8  whoami
+    9  echo "Hola Mundo"
+   10  echo $HOME
+   11  cd repogit/
+   12  ;s
+   13  ls
+   14  git clone https://github.com/LeandroAgustinAcevedo/repo_Acevedo.git
+   15  ls
+   16  cd repo_Acevedo/
+   17  ls
+   18  history
+   19  history > historial.txt
